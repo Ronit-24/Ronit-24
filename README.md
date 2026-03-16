@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on game devloping
-- 📫 reach me by emailing - ronitbambhaniya01@gmail.com
+- 📫 reach me by emailing - ronitbambhaniya00@gmail.com
 
 <!---
 Ronit-24/Ronit-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
